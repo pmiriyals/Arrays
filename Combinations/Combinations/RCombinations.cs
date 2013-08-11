@@ -25,7 +25,7 @@ namespace Combinations
                 //To handle duplicates, we need to sort arr[] before passing to this function
                 //while (i < arr.Length - 1 && arr[i] == arr[i + 1])
                   //  i++;
-                return RCombFixOneRecur(arr, data, r, index + 1, i + 1, end);
+                RCombFixOneRecur(arr, data, r, index + 1, i + 1, end);
             }
 
             return false;   //if no combination is found

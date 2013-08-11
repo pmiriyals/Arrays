@@ -11,6 +11,7 @@ namespace Combinations
         {
             RCombinations.driver();
             Combinations.driver();
+            CombinationsComposingGivenPoint.driver();
             Console.ReadLine();
         }
     }
