@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockSpan", "StockSpan\StockSpan.csproj", "{ABBB1976-4FD9-42AD-B708-2A41C27CA13D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABBB1976-4FD9-42AD-B708-2A41C27CA13D}.Debug|x86.ActiveCfg = Debug|x86
+		{ABBB1976-4FD9-42AD-B708-2A41C27CA13D}.Debug|x86.Build.0 = Debug|x86
+		{ABBB1976-4FD9-42AD-B708-2A41C27CA13D}.Release|x86.ActiveCfg = Release|x86
+		{ABBB1976-4FD9-42AD-B708-2A41C27CA13D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
